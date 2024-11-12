@@ -10,7 +10,7 @@ However, this interested me, and later that afternoon, I did more research on un
 I found a 2 minute long YouTube video, on, surprise, how to do just that. I didn't think it would work, and just thought it would end up like the KillSecurly situation that nearly bricked my chromebook. However, the description said it was unpatched on all unblocker Chrome extensions and new Chrome versions, so I decided to give it a shot. This exploit works a little bit differently, it freezes your chromebook for a few minutes before working. Of course, I was terrified it bricked my chromebook, but to my surprise, it worked. I went to Netquel to see, and for the first time in months, a student at my school was able to play Netquel on their chromebook.
 ## Chapter 3: Sharing the Exploit
 [10/26, Saturday] I was writing an essay, and.. I was pretty bored. I was doing some random stuff on my chromebook, such as watching Block's ToSF stream (gg bro) Just because I could, and because I was really procrastinating here, I decided to push v1.1.4 on MathLesson5, even though I was already working on a big update. I think my reasoning here was that the exploit would get patched soon, whatever, I have no clue what I was thinking in that moment. This would mark an end of an era for unblockers at my school, yay! So fun! Hell yeah!
-[10/28, Monday] In my homeroom class, for SOME REASON I decided to show my friend with the wiped chromebook (fuck it, call him Friend A), the ExtHang3r exploit, probably because I felt bad for bro idrk. And uh..
+[10/28, Monday] In my homeroom class, for SOME REASON I decided to show my friend with the wiped chromebook the ExtHang3r exploit, probably because I felt bad for bro idrk. And uh..
 
 he shared it with everyone.
 Everyone in this homeroom class knew what I'd discovered, except potentially our teacher.
@@ -23,4 +23,28 @@ It won't be soon, if it ever does come back. If so, it will come with the releas
 
 Thank you all for the support and motivation (like 2 of you) and helping me make this repository (probably 1 of you)
 
+This situation climaxed with my homeroom teacher finding the ML6 slideshow and us having to migrate. All and all, this situation was hell, but it will be over soon.
+
 Goodbye! MathTeacher5, out.
+
+
+ 
+
+
+  
+  
+     
+  
+  
+
+    
+ 
+
+  
+
+
+## Chapter 5: The Lost Reality
+
+It is coming.
+
+December 1, 2024.
